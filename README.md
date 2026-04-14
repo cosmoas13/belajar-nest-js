@@ -98,10 +98,12 @@ http://localhost:3000/posts/1
 - POST
 http://localhost:3000/posts
 
+```bash
 Body JSON:
 {
   "title": "Post baru"
 }
+```
 
 - DELETE
 http://localhost:3000/posts/1

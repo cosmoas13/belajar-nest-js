@@ -107,3 +107,13 @@ Body JSON:
 
 - DELETE
 http://localhost:3000/posts/1
+
+- PATCH
+http://localhost:3000/posts/1
+
+```bash
+Body JSON:
+{
+  "title": "Post baru"
+}
+```
